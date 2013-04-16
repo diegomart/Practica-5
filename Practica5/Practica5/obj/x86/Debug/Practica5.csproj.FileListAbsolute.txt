@@ -1,0 +1,14 @@
+D:\Users\Tacuache\Desktop\programacion\Practica5\Practica5\obj\x86\Debug\Practica5.Form1.resources
+D:\Users\Tacuache\Desktop\programacion\Practica5\Practica5\obj\x86\Debug\Practica5.Properties.Resources.resources
+D:\Users\Tacuache\Desktop\programacion\Practica5\Practica5\obj\x86\Debug\Practica5.csproj.GenerateResource.Cache
+D:\Users\Tacuache\Desktop\programacion\Practica5\Practica5\bin\Debug\Practica5.exe
+D:\Users\Tacuache\Desktop\programacion\Practica5\Practica5\bin\Debug\Practica5.pdb
+D:\Users\Tacuache\Desktop\programacion\Practica5\Practica5\obj\x86\Debug\Practica5.exe
+D:\Users\Tacuache\Desktop\programacion\Practica5\Practica5\obj\x86\Debug\Practica5.pdb
+D:\Users\Tacuache\Desktop\programacion\Practica-5\Practica5\Practica5\obj\x86\Debug\Practica5.exe
+D:\Users\Tacuache\Desktop\programacion\Practica-5\Practica5\Practica5\obj\x86\Debug\Practica5.pdb
+D:\Users\Tacuache\Desktop\programacion\Practica-5\Practica5\Practica5\bin\Debug\Practica5.exe
+D:\Users\Tacuache\Desktop\programacion\Practica-5\Practica5\Practica5\bin\Debug\Practica5.pdb
+D:\Users\Tacuache\Desktop\programacion\Practica-5\Practica5\Practica5\obj\x86\Debug\Practica5.Form1.resources
+D:\Users\Tacuache\Desktop\programacion\Practica-5\Practica5\Practica5\obj\x86\Debug\Practica5.Properties.Resources.resources
+D:\Users\Tacuache\Desktop\programacion\Practica-5\Practica5\Practica5\obj\x86\Debug\Practica5.csproj.GenerateResource.Cache
